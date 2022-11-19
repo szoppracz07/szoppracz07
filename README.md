@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 📊 My VS Code Stats
+
 <!--START_SECTION:waka-->
 
 ```text
