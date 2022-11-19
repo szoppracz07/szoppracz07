@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 November 2022 - To: 19 November 2022
+
+Total Time: 0 secs
+
+PHP   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
