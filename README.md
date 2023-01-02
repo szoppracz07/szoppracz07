@@ -5,16 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 30 December 2022
+From: 18 November 2022 - To: 31 December 2022
 
-Total Time: 28 hrs 42 mins
+Total Time: 32 hrs 43 mins
 
-Java             18 hrs 5 mins   ################---------   63.02 %
-PHP              3 hrs 3 mins    ###----------------------   10.65 %
-HTML             2 hrs 56 mins   ###----------------------   10.27 %
-CSS              2 hrs 32 mins   ##-----------------------   08.84 %
-YAML             59 mins         #------------------------   03.47 %
-XML              35 mins         #------------------------   02.06 %
+Java             18 hrs 5 mins   ##############-----------   55.27 %
+PHP              5 hrs 51 mins   ####---------------------   17.92 %
+HTML             3 hrs 17 mins   ###----------------------   10.07 %
+CSS              3 hrs 16 mins   ###----------------------   10.01 %
+YAML             59 mins         #------------------------   03.04 %
+XML              35 mins         -------------------------   01.82 %
 ```
 
 <!--END_SECTION:waka-->
